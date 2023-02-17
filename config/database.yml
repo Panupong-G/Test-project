@@ -24,7 +24,7 @@ production:
   adapter: postgresql
   host: localhost
   encoding: unicode
-  database: mydb
+  database: pprod
   pool: 5
-  username: fluke
+  username: mind
   password: 1234
