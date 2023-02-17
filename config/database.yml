@@ -27,4 +27,4 @@ production:
   database: mydb
   pool: 5
   username: fluke
-  password: 
+  password: 1234
