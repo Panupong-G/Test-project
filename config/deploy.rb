@@ -13,7 +13,7 @@ set :default_env, { rvm_bin_path: "~/.rvm/bin" }
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
 
 # Default deploy_to directory is /var/www/my_app_name
-  set :deploy_to, "/var/www/Test-project"
+  set :deploy_to, "/srv/www/apps/Test-project"
 
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
